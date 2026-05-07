@@ -1,2 +1,2 @@
-# nyx-labs
-Nyx Labs landing page
+# Orunyx
+Orunyx landing page
