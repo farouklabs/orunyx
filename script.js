@@ -1,5 +1,5 @@
 // ===================================
-// NyxLabs Landing Page JavaScript
+// Orunyx Landing Page JavaScript
 // ===================================
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -200,7 +200,7 @@ function initWaitlistForm() {
             `;
             button.style.background = 'linear-gradient(135deg, #10b981, #059669)';
 
-            showNotification('Welcome to NyxLabs! Your signup has been received.', 'success');
+            showNotification('Welcome to Orunyx! Your signup has been received.', 'success');
 
             setTimeout(() => {
                 button.innerHTML = originalText;
